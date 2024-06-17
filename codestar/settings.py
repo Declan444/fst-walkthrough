@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sft-walkthrough.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['https://sft-walkthrough-e165840c1f15.herokuapp.com/', 'localhost']
 
 
 # Application definition
